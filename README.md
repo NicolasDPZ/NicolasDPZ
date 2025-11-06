@@ -40,7 +40,3 @@
   
 </table>
 <br><br/>
-
-<div align="center">
-  <img width="735" height="353" alt="Image" src="https://github.com/user-attachments/assets/60dda8bc-c0b8-47ee-acce-35f32e85187e" />
-</div>
